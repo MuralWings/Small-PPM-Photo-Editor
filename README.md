@@ -4,7 +4,7 @@ A small desktop photo editor written in Java (Swing) that opens, edits, and save
 
 ## About this project
 
-This was a small project built by a group of three students for a class. It was a learning exercise in Java, Swing GUIs, and working with raw pixel data. We started from an instructor-provided template and filled in the image reading/writing and the image transformations.
+This was a small project built by a group of three students for a class. We started from an instructor-provided template.
 
 ## Running it
 
